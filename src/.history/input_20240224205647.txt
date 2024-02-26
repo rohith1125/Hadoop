@@ -1,0 +1,6 @@
+47.39.156.135 - - [01/Apr/2022:15:21:59 +0200] "HEAD /modules/mod_bowslideshow/tmpl/css/123.php HTTP/1.1" 404 0 "-" "DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)" "-"
+47.39.156.135 - - [01/Apr/2022:15:21:59 +0200] "HEAD /templates/jp_hotel/images/smiles/ HTTP/1.1" 404 0 "-" "DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)" "-"
+47.39.156.135 - - [01/Apr/2022:15:21:59 +0200] "HEAD /includes/no.php HTTP/1.1" 404 0 "-" "DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)" "-"
+47.39.156.135 - - [01/Apr/2022:15:21:59 +0200] "HEAD /templates/jp_hotel/css/alumni.php HTTP/1.1" 404 0 "-" "DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)" "-"
+47.39.156.135 - - [01/Apr/2022:15:21:59 +0200] "HEAD /media/system/css/whosonline.php HTTP/1.1" 404 0 "-" "DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)" "-"
+47.39.156.135 - - [01/Apr/2022:15:21:59 +0200] "HEAD /modules/mod_bowslideshow/tmpl/images/slashdot.php HTTP/1.1" 404 0 "-" "DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)" "-"
