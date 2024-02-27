@@ -1,4 +1,8 @@
 # Part 1
+We first create a folder named scripts in the hdfs
+```bash
+hdfs dfs -mkdir /scripts
+```
 We use this command to run the inbuilt wordcount example with the 500 random words generated using the random word generator,
 ```bash
 hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.2.1.jar wordcount /scripts/wordcountinput.txt /scripts/wordcountop
@@ -12,10 +16,6 @@ To view the output we use,
 hdfs dfs -cat /wordcountop/part-00000
 ```
 # Part 2
-We first create a folder named scripts in the hdfs
-```bash
-hdfs dfs -mkdir /scripts
-```
 To execute the program, we first put the input file, mapper and reducer to dfs by,
 ```bash
 hdfs dfs -put /scripts/ngraminput.txt /scripts
